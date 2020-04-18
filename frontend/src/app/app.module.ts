@@ -17,6 +17,7 @@ import { MatCardModule } from '@angular/material/card';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { MatButtonModule } from '@angular/material/button';
+import { ProductCreateComponent } from './views/product-create/product-create.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,7 +27,8 @@ import { MatButtonModule } from '@angular/material/button';
     HomeComponent,
     ProductCrudComponent,
     RedDirective,
-    ForDirective
+    ForDirective,
+    ProductCreateComponent
   ],
   imports: [
     BrowserModule,
