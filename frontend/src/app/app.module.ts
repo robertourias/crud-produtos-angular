@@ -17,7 +17,7 @@ import { MatCardModule } from '@angular/material/card';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { MatButtonModule } from '@angular/material/button';
-import { ProductCreateComponent } from './views/product-create/product-create.component';
+import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 @NgModule({
   declarations: [
     AppComponent,
