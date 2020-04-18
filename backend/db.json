@@ -34,6 +34,11 @@
       "name": "Produto de Teste",
       "price": 125.98,
       "id": 7
+    },
+    {
+      "name": "TEste",
+      "price": "199",
+      "id": 8
     }
   ]
 }
